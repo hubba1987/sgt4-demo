@@ -3,5 +3,7 @@ Zanda
 Agris
 Sergejs
 Ihor
+Vairis
+Evelina
 Eliza
 es
